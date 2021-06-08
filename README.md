@@ -1,3 +1,16 @@
+# Vorlagen:
+
+aktuelle Page:
+http://fasssauna-freiburg.de/#!home
+
+ursprünglicher Entwurf:
+https://nackerhans.wixsite.com/fasssauna-freiburg
+
+Die Idee war hauptsächlich die Preise-Seite zu ändern. Aber warum nicht in React bauen...
+Äh und mobile first ist ja wohl überbewertet oder so.
+
+mööp.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
